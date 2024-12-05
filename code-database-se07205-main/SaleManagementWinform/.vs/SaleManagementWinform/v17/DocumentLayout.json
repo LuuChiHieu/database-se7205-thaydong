@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|c:\\users\\admin\\documents\\github\\database-se7205-thaydong\\code-database-se07205-main\\salemanagementwinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|c:\\users\\admin\\documents\\github\\database-se7205-thaydong\\code-database-se07205-main\\salemanagementwinform\\salemanagementwinform\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,87 +90,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MenuForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\MenuForm.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
               "RelativeToolTip": "SaleManagementWinform\\MenuForm.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwA4AAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:37:34.775Z"
+              "WhenOpened": "2024-12-05T09:37:34.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MainForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\MainForm.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MainForm.cs",
               "RelativeToolTip": "SaleManagementWinform\\MainForm.cs",
-              "ViewState": "AQIAANkAAAAAAAAAAADwvxQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.262Z"
+              "WhenOpened": "2024-11-30T05:15:04.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AddCustomer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\AddCustomer.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
               "RelativeToolTip": "SaleManagementWinform\\AddCustomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.261Z"
+              "WhenOpened": "2024-11-30T05:15:04.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddEmployee.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddEmployee.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\AddEmployee.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddEmployee.cs",
               "RelativeToolTip": "SaleManagementWinform\\AddEmployee.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwBAAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T05:15:04.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "EmployeeForm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\EmployeeForm.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs",
               "RelativeToolTip": "SaleManagementWinform\\EmployeeForm.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAYwA8AAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.259Z"
+              "WhenOpened": "2024-11-30T05:15:04.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\Form1.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
               "RelativeToolTip": "SaleManagementWinform\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T05:15:04.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\Form1.cs",
-              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.249Z"
+              "WhenOpened": "2024-11-30T05:15:04.249Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -206,7 +212,8 @@
               "RelativeToolTip": "SaleManagementWinform\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.264Z"
+              "WhenOpened": "2024-11-30T05:15:04.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -227,8 +234,7 @@
               "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddEmployee.cs [Design]",
               "RelativeToolTip": "SaleManagementWinform\\AddEmployee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.259Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-30T05:15:04.259Z"
             },
             {
               "$type": "Document",
@@ -236,9 +242,11 @@
               "Title": "AddCustomer.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\AddCustomer.cs",
-              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\AddCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.263Z"
+              "WhenOpened": "2024-11-30T05:15:04.263Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -246,9 +254,11 @@
               "Title": "EmployeeForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\EmployeeForm.cs",
-              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\EmployeeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.258Z"
+              "WhenOpened": "2024-11-30T05:15:04.258Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -268,9 +278,11 @@
               "Title": "MenuForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\MenuForm.cs",
-              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\database-se7205-thaydong\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\MenuForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T05:15:04.182Z"
+              "WhenOpened": "2024-11-30T05:15:04.182Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
