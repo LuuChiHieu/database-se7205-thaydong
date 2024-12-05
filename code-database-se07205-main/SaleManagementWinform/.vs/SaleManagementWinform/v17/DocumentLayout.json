@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|d:\\kri\\code-database-se07205-main\\salemanagementwinform\\salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|d:\\kri\\code-database-se07205-main\\salemanagementwinform\\salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\MenuForm.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
+              "RelativeToolTip": "SaleManagementWinform\\MenuForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:37:34.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MainForm.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\MainForm.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MainForm.cs",
+              "RelativeToolTip": "SaleManagementWinform\\MainForm.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAADwvxQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCustomer.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\AddCustomer.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
+              "RelativeToolTip": "SaleManagementWinform\\AddCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\AddEmployee.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddEmployee.cs",
+              "RelativeToolTip": "SaleManagementWinform\\AddEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\EmployeeForm.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs",
+              "RelativeToolTip": "SaleManagementWinform\\EmployeeForm.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\Form1.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
+              "RelativeToolTip": "SaleManagementWinform\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\Form1.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.249Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\CustomerForm.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs",
+              "RelativeToolTip": "SaleManagementWinform\\CustomerForm.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAiwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProductForm.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\AddProductForm.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
+              "RelativeToolTip": "SaleManagementWinform\\AddProductForm.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\Form1.Designer.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.Designer.cs",
+              "RelativeToolTip": "SaleManagementWinform\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProductForm.cs [Design]",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\AddProductForm.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\AddProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\AddEmployee.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\AddCustomer.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\AddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\EmployeeForm.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Utils.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\Utils.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Utils.cs",
+              "RelativeToolTip": "SaleManagementWinform\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\MenuForm.cs",
+              "ToolTip": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinform\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:04.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\UpdateCustomer.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\UpdateCustomer.cs",
+              "ToolTip": "C:\\FPT\\2024 FALL\\Database-SQL\\SaleManagementWinform\\SaleManagementWinform\\UpdateCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-30T05:15:04.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateProduct.cs [Design]",
+              "DocumentMoniker": "D:\\kri\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinform\\UpdateProduct.cs",
+              "ToolTip": "C:\\FPT\\2024 FALL\\Database-SQL\\SaleManagementWinform\\SaleManagementWinform\\UpdateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-30T05:15:04.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
